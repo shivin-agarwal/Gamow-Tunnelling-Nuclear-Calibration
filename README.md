@@ -20,7 +20,7 @@ python src/02_gamow_model.py
 python src/03_fit_preformation.py
 
 # Step 4: Output publication graphics suite and residual analyses
-python src/06_generate_final_figures.py
+python src/04_generate_final_figures.py
 ```
 
 # Dataset Filtering Criteria
